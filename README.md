@@ -1,8 +1,16 @@
 # UtilHelperJava
 
-javaä»£ç å¸¸è§å¸®åŠ©ç±» (1)æ—¥æœŸå¸®åŠ©ç±» (2)å­—ç¬¦ä¸²å¸®åŠ©ç±» (3)æ–‡ä»¶å¸®åŠ©ç±» (4)JSONå¸®åŠ©ç±» (5)åå°„å¸®åŠ©ç±»
-å‚è€ƒèµ„æ–™ï¼š
-(1)èŠèŠæˆ‘çš„é«˜æ•ˆç¼–ç¨‹ä¹‹è·¯ http://blog.csdn.net/evankaka/article/details/47356915
-(2)commutil.zip http://download.csdn.net/download/augusdi/4296759
+java´úÂë³£¼û°ïÖúÀà
+(1)ÈÕÆÚ°ïÖúÀà 
+(2)×Ö·û´®°ïÖúÀà 
+(3)ÎÄ¼ş°ïÖúÀà 
+(4)JSON°ïÖúÀà 
+(5)·´Éä°ïÖúÀà
+
+ ²Î¿¼×ÊÁÏ£º 
+ (1)ÁÄÁÄÎÒµÄ¸ßĞ§±à³ÌÖ®Â·
+ http://blog.csdn.net/evankaka/article/details/47356915 
+ (2)commutil.zip 
+ http://download.csdn.net/download/augusdi/4296759
 
 
