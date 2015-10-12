@@ -4,6 +4,8 @@ import java.io.File;
 
 public class TestMain {
 
+/***
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String path = "C:"+File.separator;
@@ -20,5 +22,5 @@ public class TestMain {
 		
 		FileUtil.showAll(path);
 	}
-
+***/
 }
